@@ -1,4 +1,4 @@
-# finaltry
+# Food App
 
 This app is my first ever project on react native.
 
